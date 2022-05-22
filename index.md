@@ -7,7 +7,7 @@
 ## 6. [BFS and DFS on Graph](https://github.com/mokalyogesh113/DSA-LAB/tree/main/6.%20BFS%20and%20DFS)
 ## 7. [Find the minimum cost of using Prims Algorithm](https://github.com/mokalyogesh113/DSA-LAB/tree/main/7.Prims%20Algorithm)
 ## 8. [Optimal Binary Search Tree](https://github.com/mokalyogesh113/DSA-LAB/tree/main/8.%20OBST)
-## 9. [AVL Tree (Comming Soon....)]
+## 9. [AVL Tree](https://github.com/mokalyogesh113/DSA-LAB/tree/main/9.%20AVL%20TREE)
 ## 10.[Priority Queue](https://github.com/mokalyogesh113/DSA-LAB/tree/main/10.%20Priority%20Queue)
 ## 11.[(Comming Soon....)]
 ## 12.[(Comming Soon....)] 
