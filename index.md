@@ -9,5 +9,5 @@
 ## 8. [Optimal Binary Search Tree](https://github.com/mokalyogesh113/DSA-LAB/tree/main/8.%20OBST)
 ## 9. [AVL Tree](https://github.com/mokalyogesh113/DSA-LAB/tree/main/9.%20AVL%20TREE)
 ## 10.[Priority Queue](https://github.com/mokalyogesh113/DSA-LAB/tree/main/10.%20Priority%20Queue)
-## 11.[(Comming Soon....)]
+## 11.[Sequential File](https://github.com/mokalyogesh113/DSA-LAB/tree/main/11.%20Sequential%20File)
 ## 12.[(Comming Soon....)] 
